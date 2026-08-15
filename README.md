@@ -4,13 +4,14 @@
 
 I'm a Computer Science student passionate about building scalable web applications and solving real-world problems through software development.
 
-My primary focus is **C# and ASP.NET Core**, while I also build full-stack applications using the **MERN / Next.js ecosystem**. Alongside web development, I'm interested in **Machine Learning, Cyber Security, and data-driven solutions**.
+My primary focus is **C# and ASP.NET Core**, while I also build full-stack applications using the **MERN / Next.js ecosystem**. Alongside software development, I'm interested in **Machine Learning, Cyber Security research, and Space Technology**.
 
 ---
 
 ## 🚀 What I Work With
 
 ### 💻 Backend & .NET
+
 - C#
 - .NET
 - ASP.NET Core
@@ -20,6 +21,7 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 - REST APIs
 
 ### 🌐 Full-Stack Development
+
 - JavaScript
 - React.js
 - Next.js
@@ -31,6 +33,7 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 - Tailwind CSS
 
 ### 🤖 Machine Learning
+
 - Python
 - NumPy
 - Pandas
@@ -39,6 +42,7 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 - Machine Learning
 
 ### 🛠️ Tools & Languages
+
 - Git
 - GitHub
 - C++
@@ -48,29 +52,15 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 
 ---
 
-## ⭐ Featured Projects
+## 🔬 Research
 
-### 🔹 ASP.NET / .NET
-- **BookGarden** — Full-stack book management platform built with ASP.NET Core
-- **SeaOfBooks** — Library management system
+### DDoS Attack Detection in Electric Vehicle Charging Stations
 
-### 🔹 MERN / Next.js
-- **Finance Dashboard**
-- **AI Notes App**
-- **Discord Clone**
-- **Animood**
-- **Lumiere Jewels**
+My research focuses on detecting **DDoS attacks in Electric Vehicle Charging Stations (EVCS)** using Machine Learning techniques.
 
-### 🔹 Machine Learning
-- **Weekend ML Project**
-- More ML projects coming soon...
+The project explores data preprocessing, machine learning models, evaluation, and data-driven approaches to improving cybersecurity in EV charging infrastructure.
 
-### 🔹 C++ / Game Development
-- **Block Decent** — C++ game project
-
-### 🔬 Cyber Security Research
-- **DDoS Attack Detection in Electric Vehicle Charging Stations**
-- Research project based on machine learning and cyber security
+🔗 **Research Repository:** [EVCS DDoS Attack Detection](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -89,6 +79,8 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 
 To become a strong software engineer capable of building reliable software systems and applying software engineering, machine learning, and problem-solving skills to real-world challenges.
 
+In the long term, I want to explore the intersection of **software engineering, Machine Learning, Cyber Security, and Space Technology**.
+
 ---
 
 ## 🤝 Connect With Me
@@ -98,4 +90,4 @@ To become a strong software engineer capable of building reliable software syste
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Thanks for visiting my profile!
