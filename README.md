@@ -46,6 +46,9 @@ My primary focus is **C# and ASP.NET Core**, while I also build full-stack appli
 - Git
 - GitHub
 - C++
+- C
+- C#
+- python 
 - Visual Studio
 - Visual Studio Code
 - Postman
