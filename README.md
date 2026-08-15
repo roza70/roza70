@@ -60,7 +60,7 @@ My research focuses on detecting **DDoS attacks in Electric Vehicle Charging Sta
 
 The project explores data preprocessing, machine learning models, evaluation, and data-driven approaches to improving cybersecurity in EV charging infrastructure.
 
-🔗 **Research Repository:** [EVCS DDoS Attack Detection](YOUR_REPOSITORY_LINK)
+🔗 **Research Repository:** https://github.com/roza70/ev-charging-ddos-intrusion-detection
 
 ---
 
