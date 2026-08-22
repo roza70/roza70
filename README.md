@@ -49,13 +49,5 @@ To become a strong software engineer capable of building reliable software syste
 
 In the long term, I want to explore the intersection of **software engineering, Machine Learning, Cyber Security, and Space Technology**.
 
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tahsin-roza/)
-- 📧 [Email](mailto:tahsinroza10@gmail.com)
-
----
 
 ⭐ Thanks for visiting my profile!
