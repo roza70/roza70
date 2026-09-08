@@ -1,115 +1,132 @@
 <div align="center">
 
-# 🌸 Hi, I'm Tahsin Roza 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=180&section=header&text=Tahsin%20Roza&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=ASP.NET%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=17&descColor=FFFFFF"/>
 
-### 💻 ASP.NET Developer | 🚀 Full-Stack Developer | 🤖 ML & Cyber Security Enthusiast
+# Hey, I'm Tahsin Roza 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=120&section=header"/>
+### 🎓 CSE Student | 💻 Backend & Full-Stack Development | 🔬 ML & Cyber Security
+
+<p>
+  <a href="https://github.com/roza70">
+    <img src="https://img.shields.io/badge/GitHub-roza70-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## ✨ A Little About Me
+## 🌷 About Me
 
-I'm a **Computer Science student** who enjoys turning ideas into practical software and exploring how technology can solve real-world problems.
+I'm a **Computer Science student** with a strong interest in building software that is practical, scalable, and reliable.
 
-I mainly work with **C# and ASP.NET Core**, while also building modern full-stack applications with **React, Next.js, Node.js, and MongoDB**.
+My main development focus is **C# and ASP.NET Core**, while I also enjoy working across the full stack with **React, Next.js, Node.js, and MongoDB**.
 
-Beyond web development, I'm exploring **Machine Learning, Cyber Security, and Space Technology** — areas where software can have a much bigger impact.
+I'm also exploring the world beyond conventional web development, particularly **Machine Learning, Cyber Security, and Space Technology**.
+
+* 🎓 Studying Computer Science
+* ⚙️ Focused on C# & ASP.NET Core
+* 🌐 Building full-stack applications
+* 🤖 Exploring Machine Learning
+* 🔐 Interested in Cyber Security
+* 🚀 Curious about Space Technology
+* 🌱 Always learning something new
 
 ---
 
-## 🧩 What I Work With
+## 🛠️ Languages & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,ts,python,php,react,nextjs,nodejs,express,mongodb,mysql,postgres,numpy,pandas,git,github,postman,azure,vscode"/>
+### 👨‍💻 Programming
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,php,js,ts"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-FF69B4?style=for-the-badge&logo=.net&logoColor=white"/>
+### 🌐 Web & Application Development
 
-<br>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express"/>
 
-<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white"/>
+<br><br>
 
-<br>
+### 🗄️ Databases & Data
 
-<img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,numpy,pandas"/>
+
+<br><br>
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,azure,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-FF69B4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-FF69B4?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/MLflow-FF69B4?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🔬 Research & Exploration
+## 💻 My Development Stack
 
-### 🛡️ DDoS Attack Detection for EV Charging Stations
+| Area                 | Technologies                           |
+| -------------------- | -------------------------------------- |
+| **Primary Language** | C#                                     |
+| **Backend**          | ASP.NET Core, Node.js, Express.js      |
+| **Frontend**         | React, Next.js, JavaScript, TypeScript |
+| **Programming**      | C++, Python, PHP                       |
+| **Databases**        | MongoDB, PostgreSQL, MySQL             |
+| **Machine Learning** | Python, NumPy, Pandas, MLflow          |
+| **Cloud**            | Microsoft Azure                        |
+| **Tools**            | Git, GitHub, Postman, VS Code          |
 
-I'm currently exploring **Machine Learning-based DDoS attack detection for Electric Vehicle Charging Stations (EVCS)**.
+---
 
-The research focuses on using network and system data to identify malicious traffic and improve the security of EV charging infrastructure.
+## 🔬 Research & Interests
 
-**Areas I'm exploring:**
+### ⚡ Machine Learning for EV Charging Security
 
-* 🤖 Machine Learning for intrusion detection
+I'm currently working on research around **DDoS attack detection in Electric Vehicle Charging Stations (EVCS)** using Machine Learning.
+
+The goal is to investigate how machine learning techniques can help identify malicious network activity and improve the security and reliability of modern EV charging infrastructure.
+
+**Currently exploring:**
+
+* 🤖 Machine Learning-based intrusion detection
 * 📊 Data preprocessing & feature engineering
-* 📈 Model evaluation
-* 🔐 Cyber Security & network attacks
-* ⚡ Security of EV charging infrastructure
+* 🧠 Model training and evaluation
+* 🔐 DDoS attack detection
+* ⚡ EV charging infrastructure security
 
-🔗 **Repository:**
+🔗 **Research Repository:**
 https://github.com/roza70/ev-charging-ddos-intrusion-detection
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Exploring
 
-```text
-ASP.NET Core          ███████████████░░░  Advanced
-Software Architecture ████████████░░░░░░  Exploring
-Machine Learning      ███████████░░░░░░░  Growing
-Data Structures       █████████████░░░░░  Practicing
-System Design         ██████████░░░░░░░░  Exploring
-Cloud & Deployment    ███████████░░░░░░░  Learning
-```
+<div align="center">
+
+**ASP.NET Core** · **Software Architecture** · **Machine Learning**
+**Data Structures & Algorithms** · **System Design** · **Cloud Computing**
+
+</div>
+
+I'm particularly interested in understanding not only **how to build software**, but also how to design systems that remain maintainable, secure, and scalable as they grow.
 
 ---
 
-## 🚀 Where I'm Heading
+## 🚀 Long-Term Vision
 
-I want to grow into a **well-rounded software engineer** who can design reliable systems, build useful products, and solve complex problems.
+I want to become a **versatile software engineer** who can move comfortably between application development, system design, and emerging technologies.
 
-I'm particularly interested in the intersection of:
+My long-term interests sit at the intersection of:
 
-**Software Engineering × Machine Learning × Cyber Security × Space Technology**
-
-There's still a lot to learn — and that's the fun part. 🌱
+**💻 Software Engineering · 🤖 Machine Learning · 🔐 Cyber Security · 🚀 Space Technology**
 
 ---
 
@@ -131,20 +148,20 @@ There's still a lot to learn — and that's the fun part. 🌱
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
 
-<a href="https://www.instagram.com/merely_mimosa">
-<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/roza70">
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tahsin-roza/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/roza70">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/merely_mimosa">
+  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -153,7 +170,7 @@ There's still a lot to learn — and that's the fun part. 🌱
 
 <div align="center">
 
-### 🌸 Build • Learn • Explore • Repeat 🌸
+### 🌸 Code • Explore • Learn • Create 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=100&section=footer"/>
 
