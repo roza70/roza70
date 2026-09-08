@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=180&section=header&text=Tahsin%20Roza&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=ASP.NET%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=17&descColor=FFFFFF"/>
 
-# Hey, I'm Tahsin Roza 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=180&section=header&text=Hey! i\I'm Tahsin%20Akter Roza&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=ASP.NET%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=17&descColor=FFFFFF"/>
+
+
 
 ### 🎓 CSE Student | 💻 Backend & Full-Stack Development | 🔬 ML & Cyber Security
 
