@@ -40,7 +40,7 @@ I'm also exploring the world beyond conventional web development, particularly *
 
 ### 👨‍💻 Programming
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,php,js,ts"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js,ts"/>
 
 <br><br>
 
