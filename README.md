@@ -78,32 +78,11 @@ I'm also exploring the world beyond conventional web development, particularly *
 | **Primary Language** | C#                                     |
 | **Backend**          | ASP.NET Core, Node.js, Express.js      |
 | **Frontend**         | React, Next.js, JavaScript, TypeScript |
-| **Programming**      | C++, Python, PHP                       |
+| **Programming**      | C C++, Python, PHP                       |
 | **Databases**        | MongoDB, PostgreSQL, MySQL             |
 | **Machine Learning** | Python, NumPy, Pandas, MLflow          |
 | **Cloud**            | Microsoft Azure                        |
 | **Tools**            | Git, GitHub, Postman, VS Code          |
-
----
-
-## 🔬 Research & Interests
-
-### ⚡ Machine Learning for EV Charging Security
-
-I'm currently working on research around **DDoS attack detection in Electric Vehicle Charging Stations (EVCS)** using Machine Learning.
-
-The goal is to investigate how machine learning techniques can help identify malicious network activity and improve the security and reliability of modern EV charging infrastructure.
-
-**Currently exploring:**
-
-* 🤖 Machine Learning-based intrusion detection
-* 📊 Data preprocessing & feature engineering
-* 🧠 Model training and evaluation
-* 🔐 DDoS attack detection
-* ⚡ EV charging infrastructure security
-
-🔗 **Research Repository:**
-https://github.com/roza70/ev-charging-ddos-intrusion-detection
 
 ---
 
