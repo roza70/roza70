@@ -40,19 +40,19 @@ I'm also exploring the world beyond conventional web development, particularly *
 
 ### 👨‍💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js,ts"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js,ts,sql"/>
 
 <br><br>
 
 ### 🌐 Web & Application Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,react,nextjs,nodejs,express"/>
 
 <br><br>
 
 ### 🗄️ Databases & Data
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,numpy,pandas"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sql,postgres,numpy,pandas"/>
 
 <br><br>
 
@@ -63,6 +63,7 @@ I'm also exploring the world beyond conventional web development, particularly *
 <br><br>
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-FF69B4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF69B4?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-FF69B4?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-FF69B4?style=for-the-badge&logo=mlflow&logoColor=white"/>
@@ -76,13 +77,13 @@ I'm also exploring the world beyond conventional web development, particularly *
 | Area                 | Technologies                           |
 | -------------------- | -------------------------------------- |
 | **Primary Language** | C#                                     |
-| **Backend**          | ASP.NET Core, Node.js, Express.js      |
+| **Backend**          | ASP.NET Core,Laravel, Node.js, Express.js      |
 | **Frontend**         | React, Next.js, JavaScript, TypeScript |
-| **Programming**      | C C++, Python, PHP                       |
+| **Programming**      | C, C++, Python, PHP                       |
 | **Databases**        | MongoDB, PostgreSQL, MySQL             |
 | **Machine Learning** | Python, NumPy, Pandas, MLflow          |
 | **Cloud**            | Microsoft Azure                        |
-| **Tools**            | Git, GitHub, Postman, VS Code          |
+| **Tools**            | Git, GitHub, Postman, VS Code ,Visual Studio         |
 
 ---
 
@@ -90,7 +91,7 @@ I'm also exploring the world beyond conventional web development, particularly *
 
 <div align="center">
 
-**ASP.NET Core** · **Software Architecture** · **Machine Learning**
+**ASP.NET Core** · **Laravel** . **Software Architecture** · **Machine Learning**
 **Data Structures & Algorithms** · **System Design** · **Cloud Computing**
 
 </div>
