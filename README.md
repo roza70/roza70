@@ -53,7 +53,7 @@ I'm also exploring the world beyond conventional web development, particularly *
 ### 🗄️ Databases & Data
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,numpy,pandas"/>
-<img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
 
 <br><br>
 
