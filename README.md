@@ -20,7 +20,7 @@
 
 I'm a **Computer Science student** with a strong interest in building software that is practical, scalable, and reliable.
 
-My main development focus is **C# and ASP.NET Core**, while I also enjoy working across the full stack with **React, Next.js, Node.js, and MongoDB**.
+My main development focus is **C# and ASP.NET Core**, while I also enjoy working across the full stack with **Laravel,React, Next.js, Node.js, and MongoDB**.
 
 I'm also exploring the world beyond conventional web development, particularly **Machine Learning, Cyber Security, and Space Technology**.
 
@@ -52,7 +52,8 @@ I'm also exploring the world beyond conventional web development, particularly *
 
 ### 🗄️ Databases & Data
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sql,postgres,numpy,pandas"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,numpy,pandas"/>
+<img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br><br>
 
